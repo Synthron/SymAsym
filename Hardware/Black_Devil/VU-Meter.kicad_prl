@@ -1,8 +1,8 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 37,
     "active_layer_preset": "",
-    "auto_track_width": true,
+    "auto_track_width": false,
     "hidden_netclasses": [],
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -34,7 +34,6 @@
       3,
       4,
       5,
-      8,
       9,
       10,
       11,
@@ -64,11 +63,11 @@
       39,
       40
     ],
-    "visible_layers": "ffcd000_ffffffff",
-    "zone_display_mode": 0
+    "visible_layers": "800d330_ffffffff",
+    "zone_display_mode": 1
   },
   "meta": {
-    "filename": "Softstart.kicad_prl",
+    "filename": "VU-Meter.kicad_prl",
     "version": 3
   },
   "project": {
