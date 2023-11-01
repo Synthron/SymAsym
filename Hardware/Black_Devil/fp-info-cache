@@ -1,4 +1,4 @@
-21979033168660641
+21982430890122812
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90573,6 +90573,13 @@ capacitor handsolder
 2
 2
 eigene
+BLOCK 14VA
+
+
+0
+8
+8
+eigene
 CP_Radial_D40.0mm_P22,5
 CP, Radial series, Radial, pin pitch=10.00mm, , diameter=40mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
 CP Radial series Radial pin pitch 10.00mm  diameter 40mm Electrolytic Capacitor
@@ -90691,6 +90698,13 @@ USB_C_PCB
 0
 24
 24
+eigene
+V 4330N
+
+
+0
+0
+0
 eigene
 VG64_Euro
 DIN41612 connector, type C, Horizontal, 3 rows 32 pins wide, https://www.erni-x-press.com/de/downloads/kataloge/englische_kataloge/erni-din41612-iec60603-2-e.pdf
