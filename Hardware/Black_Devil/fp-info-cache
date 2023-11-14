@@ -1,4 +1,4 @@
-21982430890122812
+21986062956799154
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -64255,6 +64255,20 @@ https://docs.arduino.cc/hardware/nano-33-iot
 PCM_arduino-library
 Arduino_Nano_33_IoT_Tile
 https://docs.arduino.cc/hardware/nano-33-iot
+
+0
+30
+30
+PCM_arduino-library
+Arduino_Nano_ESP32_Socket
+https://docs.arduino.cc/hardware/nano-esp32
+
+0
+30
+30
+PCM_arduino-library
+Arduino_Nano_ESP32_Tile
+https://docs.arduino.cc/hardware/nano-esp32
 
 0
 30

@@ -4797,8 +4797,8 @@
     (property "Datasheet" "~" (at 104.775 28.575 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a3cda4f8-805a-4049-a86a-1f386f7e0b88))
-    (pin "2" (uuid a25f2350-6801-420c-b36a-7034566eecdd))
+    (pin "1" (uuid dcbbd53d-44a2-46a2-9f89-73d6928173a4))
+    (pin "2" (uuid 815d8d3a-a6be-44e3-accb-9daf845ecead))
     (instances
       (project "Softstart"
         (path "/901d2077-c5a2-4ab8-be64-5ded51f3955f"
