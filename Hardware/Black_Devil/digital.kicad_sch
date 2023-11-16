@@ -3402,6 +3402,10 @@
     (stroke (width 0) (type default))
     (uuid 45c2f945-3215-4bb8-896f-659378a0051d)
   )
+  (wire (pts (xy 69.85 164.465) (xy 69.85 162.56))
+    (stroke (width 0) (type default))
+    (uuid 464f32b9-9464-48d5-8302-4841bac0996d)
+  )
   (wire (pts (xy 282.575 52.07) (xy 282.575 53.975))
     (stroke (width 0) (type default))
     (uuid 46d14d79-d248-4084-af10-6e0e40f81d57)
@@ -4578,6 +4582,10 @@
     (stroke (width 0) (type default))
     (uuid ed1c24f5-7ecf-47e0-ad30-ae9438c6df92)
   )
+  (wire (pts (xy 69.85 149.86) (xy 69.85 151.765))
+    (stroke (width 0) (type default))
+    (uuid eda5f39b-e640-4e77-ad2e-6d9460d19f99)
+  )
   (wire (pts (xy 371.475 159.385) (xy 371.475 161.29))
     (stroke (width 0) (type default))
     (uuid f018d101-f07e-42d9-a09b-d3bf840455b7)
@@ -5293,6 +5301,11 @@
           (reference "J115") (unit 1)
         )
       )
+      (project "Overview_Schematic"
+        (path "/c7b1811f-24fd-4e13-a38a-b587cd9cacbf/60e79a5f-d737-4a43-902b-ccd082ad4ee1"
+          (reference "J115") (unit 1)
+        )
+      )
     )
   )
 
@@ -5376,6 +5389,11 @@
     (instances
       (project "digital"
         (path "/6cfa901a-81f3-4fe2-a026-5f0c8f3321de"
+          (reference "#FLG0104") (unit 1)
+        )
+      )
+      (project "Overview_Schematic"
+        (path "/c7b1811f-24fd-4e13-a38a-b587cd9cacbf/60e79a5f-d737-4a43-902b-ccd082ad4ee1"
           (reference "#FLG0104") (unit 1)
         )
       )
@@ -5793,6 +5811,11 @@
     (instances
       (project "digital"
         (path "/6cfa901a-81f3-4fe2-a026-5f0c8f3321de"
+          (reference "#PWR0146") (unit 1)
+        )
+      )
+      (project "Overview_Schematic"
+        (path "/c7b1811f-24fd-4e13-a38a-b587cd9cacbf/60e79a5f-d737-4a43-902b-ccd082ad4ee1"
           (reference "#PWR0146") (unit 1)
         )
       )
@@ -6236,6 +6259,11 @@
           (reference "#PWR0105") (unit 1)
         )
       )
+      (project "Overview_Schematic"
+        (path "/c7b1811f-24fd-4e13-a38a-b587cd9cacbf/60e79a5f-d737-4a43-902b-ccd082ad4ee1"
+          (reference "#PWR0105") (unit 1)
+        )
+      )
     )
   )
 
@@ -6258,6 +6286,11 @@
     (instances
       (project "digital"
         (path "/6cfa901a-81f3-4fe2-a026-5f0c8f3321de"
+          (reference "#PWR0109") (unit 1)
+        )
+      )
+      (project "Overview_Schematic"
+        (path "/c7b1811f-24fd-4e13-a38a-b587cd9cacbf/60e79a5f-d737-4a43-902b-ccd082ad4ee1"
           (reference "#PWR0109") (unit 1)
         )
       )
@@ -6508,6 +6541,11 @@
           (reference "TH102") (unit 1)
         )
       )
+      (project "Overview_Schematic"
+        (path "/c7b1811f-24fd-4e13-a38a-b587cd9cacbf/60e79a5f-d737-4a43-902b-ccd082ad4ee1"
+          (reference "TH102") (unit 1)
+        )
+      )
     )
   )
 
@@ -6530,6 +6568,11 @@
     (instances
       (project "digital"
         (path "/6cfa901a-81f3-4fe2-a026-5f0c8f3321de"
+          (reference "#FLG0101") (unit 1)
+        )
+      )
+      (project "Overview_Schematic"
+        (path "/c7b1811f-24fd-4e13-a38a-b587cd9cacbf/60e79a5f-d737-4a43-902b-ccd082ad4ee1"
           (reference "#FLG0101") (unit 1)
         )
       )
@@ -6619,6 +6662,11 @@
     (instances
       (project "digital"
         (path "/6cfa901a-81f3-4fe2-a026-5f0c8f3321de"
+          (reference "#PWR0126") (unit 1)
+        )
+      )
+      (project "Overview_Schematic"
+        (path "/c7b1811f-24fd-4e13-a38a-b587cd9cacbf/60e79a5f-d737-4a43-902b-ccd082ad4ee1"
           (reference "#PWR0126") (unit 1)
         )
       )
@@ -6736,6 +6784,11 @@
     (instances
       (project "digital"
         (path "/6cfa901a-81f3-4fe2-a026-5f0c8f3321de"
+          (reference "#PWR0101") (unit 1)
+        )
+      )
+      (project "Overview_Schematic"
+        (path "/c7b1811f-24fd-4e13-a38a-b587cd9cacbf/60e79a5f-d737-4a43-902b-ccd082ad4ee1"
           (reference "#PWR0101") (unit 1)
         )
       )
@@ -7251,6 +7304,11 @@
           (reference "#FLG0102") (unit 1)
         )
       )
+      (project "Overview_Schematic"
+        (path "/c7b1811f-24fd-4e13-a38a-b587cd9cacbf/60e79a5f-d737-4a43-902b-ccd082ad4ee1"
+          (reference "#FLG0102") (unit 1)
+        )
+      )
     )
   )
 
@@ -7556,6 +7614,11 @@
     (instances
       (project "digital"
         (path "/6cfa901a-81f3-4fe2-a026-5f0c8f3321de"
+          (reference "#PWR0148") (unit 1)
+        )
+      )
+      (project "Overview_Schematic"
+        (path "/c7b1811f-24fd-4e13-a38a-b587cd9cacbf/60e79a5f-d737-4a43-902b-ccd082ad4ee1"
           (reference "#PWR0148") (unit 1)
         )
       )
@@ -7998,6 +8061,11 @@
           (reference "#PWR0127") (unit 1)
         )
       )
+      (project "Overview_Schematic"
+        (path "/c7b1811f-24fd-4e13-a38a-b587cd9cacbf/60e79a5f-d737-4a43-902b-ccd082ad4ee1"
+          (reference "#PWR0127") (unit 1)
+        )
+      )
     )
   )
 
@@ -8021,6 +8089,41 @@
       (project "digital"
         (path "/6cfa901a-81f3-4fe2-a026-5f0c8f3321de"
           (reference "#FLG0103") (unit 1)
+        )
+      )
+      (project "Overview_Schematic"
+        (path "/c7b1811f-24fd-4e13-a38a-b587cd9cacbf/60e79a5f-d737-4a43-902b-ccd082ad4ee1"
+          (reference "#FLG0103") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Connector:TestPoint") (at 69.85 149.86 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid a5311f31-565e-46aa-8e64-dddedeec16c2)
+    (property "Reference" "TP105" (at 71.247 145.3459 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "TestPoint" (at 71.247 147.7701 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "TestPoint:TestPoint_Loop_D2.50mm_Drill1.0mm" (at 74.93 149.86 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 74.93 149.86 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 26667cdb-0906-4ad6-ba5c-067d32523788))
+    (instances
+      (project "digital"
+        (path "/6cfa901a-81f3-4fe2-a026-5f0c8f3321de"
+          (reference "TP105") (unit 1)
+        )
+      )
+      (project "Overview_Schematic"
+        (path "/c7b1811f-24fd-4e13-a38a-b587cd9cacbf/60e79a5f-d737-4a43-902b-ccd082ad4ee1"
+          (reference "TP105") (unit 1)
         )
       )
     )
@@ -8685,6 +8788,41 @@
           (reference "TR101") (unit 1)
         )
       )
+      (project "Overview_Schematic"
+        (path "/c7b1811f-24fd-4e13-a38a-b587cd9cacbf/60e79a5f-d737-4a43-902b-ccd082ad4ee1"
+          (reference "TR101") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Connector:TestPoint") (at 69.85 164.465 180) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid cffee835-2dab-4620-8e5f-0587ede4fa81)
+    (property "Reference" "TP104" (at 71.247 166.5549 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Value" "TestPoint" (at 71.247 168.9791 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Footprint" "TestPoint:TestPoint_Loop_D2.50mm_Drill1.0mm" (at 64.77 164.465 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 64.77 164.465 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 3a3ee941-9d3f-41f0-9049-3f732e591ec9))
+    (instances
+      (project "digital"
+        (path "/6cfa901a-81f3-4fe2-a026-5f0c8f3321de"
+          (reference "TP104") (unit 1)
+        )
+      )
+      (project "Overview_Schematic"
+        (path "/c7b1811f-24fd-4e13-a38a-b587cd9cacbf/60e79a5f-d737-4a43-902b-ccd082ad4ee1"
+          (reference "TP104") (unit 1)
+        )
+      )
     )
   )
 
@@ -8714,6 +8852,11 @@
     (instances
       (project "digital"
         (path "/6cfa901a-81f3-4fe2-a026-5f0c8f3321de"
+          (reference "U105") (unit 1)
+        )
+      )
+      (project "Overview_Schematic"
+        (path "/c7b1811f-24fd-4e13-a38a-b587cd9cacbf/60e79a5f-d737-4a43-902b-ccd082ad4ee1"
           (reference "U105") (unit 1)
         )
       )
@@ -8932,6 +9075,11 @@
           (reference "TH101") (unit 1)
         )
       )
+      (project "Overview_Schematic"
+        (path "/c7b1811f-24fd-4e13-a38a-b587cd9cacbf/60e79a5f-d737-4a43-902b-ccd082ad4ee1"
+          (reference "TH101") (unit 1)
+        )
+      )
     )
   )
 
@@ -9075,6 +9223,11 @@
     (instances
       (project "digital"
         (path "/6cfa901a-81f3-4fe2-a026-5f0c8f3321de"
+          (reference "#PWR0128") (unit 1)
+        )
+      )
+      (project "Overview_Schematic"
+        (path "/c7b1811f-24fd-4e13-a38a-b587cd9cacbf/60e79a5f-d737-4a43-902b-ccd082ad4ee1"
           (reference "#PWR0128") (unit 1)
         )
       )
