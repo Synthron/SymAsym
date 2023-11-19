@@ -46,6 +46,9 @@ Die Leistungstransistoren müssen mit einer Glimmerscheibe gegen den Kühlkörpe
 Beispiel [Silikonfolie](https://www.reichelt.de/silikon-isolierfolie-200x200x0-18mm-si-4018-p35416.html?&trstct=pos_1&nbc=1); [Glimmer TO220](https://www.reichelt.de/glimmerscheibe-fuer-gehaeuse-to-220-glimmer-to-220-p8194.html?&trstct=pos_5&nbc=1)  
 Die Isolierbuchsen (im Warenkorb) müssen bei den MJE-Transistoren (TO220) verwendet werden!
 
+**R7**  
+Der Widerstand R7 muss mit 10 Windungen Kupferlackdraht umwickelt werden, dieser wird an die Pins des Widerstandes angelötet. 
+
 ---
 
 ### Netzfilter und Softstart
