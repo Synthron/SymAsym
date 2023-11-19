@@ -47,7 +47,7 @@ Beispiel [Silikonfolie](https://www.reichelt.de/silikon-isolierfolie-200x200x0-1
 Die Isolierbuchsen (im Warenkorb) müssen bei den MJE-Transistoren (TO220) verwendet werden!
 
 **R7**  
-Der Widerstand R7 muss mit 10 Windungen Kupferlackdraht umwickelt werden, dieser wird an die Pins des Widerstandes angelötet. 
+Der Widerstand R7 muss mit 10 Windungen 0,7mm - 1mm Kupferlackdraht umwickelt werden, dieser wird an die Pins des Widerstandes angelötet. 
 
 ---
 
